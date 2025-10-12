@@ -1,0 +1,9 @@
+MONGODB_HOST: mongodb.devops86s.site
+REDIS_HOST: redis.devops86s.site
+CATALOGUE_HOST: catalogue.devops86s.site
+CART_HOST: cart.devops86s.site
+USER_HOST: user.devops86s.site
+RABBITMQ_HOST: rabbitmq.devops86s.site
+MYSQL_HOST: mysql.devops86s.site
+SHIPPING_HOST: shipping.devops86s.site
+PAYMENT_HOST: payment.devops86s.site
